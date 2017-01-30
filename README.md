@@ -6,6 +6,8 @@ These are the example projects for Wyliodrin STUDIO used at ALP Dillingen's MINT
 
 To install, download [Wyliodrin STUDIO](https://github.com/Wyliodrin/ALP-Dillingen-MINT/raw/master/software/WyliodrinSTUDIO.crx) and follow the steps:
 
+![ALP Dillingen MINT](https://github.com/Wyliodrin/ALP-Dillingen-MINT/raw/master/stuff/alp_dillingen_mint_install.gif)
+
 1. Save the WyliodrinSTUDIO.crx file 
 2. Open Chrome
 3. Go to Settings / More Tools / Extensions
