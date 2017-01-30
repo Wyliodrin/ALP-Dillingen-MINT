@@ -1,0 +1,26 @@
+[
+	{
+		"name":"1. What is the Internet of Things",
+		"file":"iot1.wylioapp",
+		"description":"A short description about the Internet of Things",
+		"language":"python"
+	},
+	{
+		"name":"2. Setup your Raspberry Pi",
+		"file":"iot2.wylioapp",
+		"description":"How to set up your Raspberry Pi with Wyliodrin STUDIO",
+		"language":"python"
+	},
+	{
+		"name":"3. First Rapspberry Pi Application",
+		"file":"iot3.wylioapp",
+		"description":"Some python language examples",
+		"language":"python"
+	},
+	{
+		"name":"4. Raspberry Pi Electronics",
+		"file":"iot4.wylioapp",
+		"description":"LED blink electronics example",
+		"language":"python"
+	},
+]
