@@ -22,5 +22,5 @@
 		"file":"iot4.wylioapp",
 		"description":"LED blink electronics example",
 		"language":"python"
-	},
+	}
 ]
