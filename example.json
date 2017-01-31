@@ -30,9 +30,15 @@
 		"language":"python"
 	},
 	{
-		"name":"5. Raspberry Pi Camera",
+		"name":"6. Raspberry Pi Camera",
 		"file":"iot6.wylioapp",
 		"description":"Use the Raspberry Pi Camera",
+		"language":"python"
+	},
+	{
+		"name":"7. Arduino",
+		"file":"iot6.wylioapp",
+		"description":"Raspberry Pi and Arduino",
 		"language":"python"
 	}
 ]
