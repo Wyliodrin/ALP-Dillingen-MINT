@@ -22,5 +22,11 @@
 		"file":"iot4.wylioapp",
 		"description":"LED blink electronics example",
 		"language":"python"
+	},
+	{
+		"name":"5. Raspberry Pi Sensor",
+		"file":"iot5.wylioapp",
+		"description":"Use the Raspberry Pi Sensor HAT",
+		"language":"python"
 	}
 ]
