@@ -1,44 +1,68 @@
 [
 	{
 		"name":"1. What is the Internet of Things",
-		"file":"iot1.wylioapp",
+		"file":"tutorials/iot1.wylioapp",
 		"description":"A short description about the Internet of Things",
 		"language":"python"
 	},
 	{
 		"name":"2. Setup your Raspberry Pi",
-		"file":"iot2.wylioapp",
+		"file":"tutorials/iot2.wylioapp",
 		"description":"How to set up your Raspberry Pi with Wyliodrin STUDIO",
 		"language":"python"
 	},
 	{
 		"name":"3. First Rapspberry Pi Application",
-		"file":"iot3.wylioapp",
+		"file":"tutorials/iot3.wylioapp",
 		"description":"Some python language examples",
 		"language":"python"
 	},
 	{
 		"name":"4. Raspberry Pi Electronics",
-		"file":"iot4.wylioapp",
+		"file":"tutorials/iot4.wylioapp",
 		"description":"LED blink electronics example",
 		"language":"python"
 	},
 	{
 		"name":"5. Raspberry Pi Sensor",
-		"file":"iot5.wylioapp",
+		"file":"tutorials/iot5.wylioapp",
 		"description":"Use the Raspberry Pi Sensor HAT",
 		"language":"python"
 	},
 	{
 		"name":"6. Raspberry Pi Camera",
-		"file":"iot6.wylioapp",
+		"file":"tutorials/iot6.wylioapp",
 		"description":"Use the Raspberry Pi Camera",
 		"language":"python"
 	},
 	{
 		"name":"7. Arduino",
-		"file":"iot7.wylioapp",
+		"file":"tutorials/iot7.wylioapp",
 		"description":"Raspberry Pi and Arduino",
 		"language":"python"
-	}
+	},
+	{
+		"name":"Radio BlinkLicht",
+		"file":"applications/1_Radio_BlinkLicht.wylioapp",
+		"description":"Ralf Perle, ...",
+		"language":"python"
+	},
+	{
+		"name":"Logging mit mySQL-Server",
+		"file":"applications/3_Logging_mit_mySQL-Server.wylioapp",
+		"description":"Jurgen ...",
+		"language":"python"
+	},
+	{
+		"name":"Windrad",
+		"file":"applications/3_Windrad.wylioapp",
+		"description":"Sylvia ...",
+		"language":"python"
+	},
+	{
+		"name":"Webserver Temperaturmessung",
+		"file":"applications/4_Webserver_Temperaturmessung.wylioapp",
+		"description":"",
+		"language":"python"
+	},
 ]
